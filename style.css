@@ -1,9 +1,9 @@
 @import url(https://fonts.googleapis.com/css2?family=Oswald);
 @import url(https://fonts.googleapis.com/css2?family=Roboto);
 #circle{
-    width: 60px;
-    height: 60px;
-    background-color:#ffff00;
+    width: 60px; 
+    height: 60px; 
+    background-color:#ffff00; 
     position:fixed;
     border-radius:50%;
     opacity:0.7; 
